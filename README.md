@@ -1,5 +1,12 @@
 # Smart Energy Monitoring System ⚡
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
+![CI](https://github.com/sahanalavanya2008-glitch/smart-energy-monitoring-system/actions/workflows/ci.yml/badge.svg)
+
+# Smart Energy Monitoring System ⚡
+
 A simulated IoT-based energy monitoring platform inspired by renewable energy systems.
 
 ## Features
