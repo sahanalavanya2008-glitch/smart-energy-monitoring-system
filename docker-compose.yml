@@ -1,0 +1,11 @@
+version: "3.8"
+
+services:
+
+  energy-api:
+    build: .
+    container_name: energy-monitoring-api
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
