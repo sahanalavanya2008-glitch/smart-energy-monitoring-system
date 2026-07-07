@@ -29,3 +29,41 @@ Endpoints:
 - GET / → Check system status
 - POST /energy → Add energy data
 - GET /energy → View energy readings
+
+- ## API Documentation
+
+### Base Endpoint
+
+GET /
+
+Returns the system status.
+
+Example response:
+
+{
+  "message": "Smart Energy Monitoring System API Running"
+}
+
+
+### Add Energy Reading
+
+POST /energy
+
+Parameters:
+
+- device_id
+- usage
+- battery
+
+Example:
+
+device_id = Powerwall_01
+usage = 5.4
+battery = 80
+
+
+### Get Energy Data
+
+GET /energy
+
+Returns stored energy readings.
