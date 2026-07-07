@@ -17,3 +17,15 @@ A simulated IoT-based energy monitoring platform inspired by renewable energy sy
 
 ## Goal
 Build a scalable energy monitoring system similar to real-world IoT platforms.
+
+## Backend API
+
+The system includes a FastAPI backend that:
+- Receives energy readings
+- Stores device information
+- Provides API endpoints for monitoring
+
+Endpoints:
+- GET / → Check system status
+- POST /energy → Add energy data
+- GET /energy → View energy readings
