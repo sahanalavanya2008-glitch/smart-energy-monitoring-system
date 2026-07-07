@@ -93,3 +93,10 @@ Data persistence
 Containerization
 Service architecture
 IoT data simulation
+## Project Highlights
+
+- Simulates IoT energy devices
+- Built REST APIs using FastAPI
+- Implements persistent data storage
+- Containerized using Docker
+- Automated testing using GitHub Actions
