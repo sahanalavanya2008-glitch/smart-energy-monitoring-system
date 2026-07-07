@@ -67,3 +67,22 @@ battery = 80
 GET /energy
 
 Returns stored energy readings.
+          IoT Devices
+              |
+              ↓
+     Sensor Simulator
+              |
+              ↓
+       FastAPI Service
+              |
+              ↓
+        Database Layer
+              |
+              ↓
+      Energy Monitoring Data
+      Engineering Concepts
+REST API design
+Data persistence
+Containerization
+Service architecture
+IoT data simulation
