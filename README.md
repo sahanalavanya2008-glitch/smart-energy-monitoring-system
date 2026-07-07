@@ -100,3 +100,25 @@ IoT data simulation
 - Implements persistent data storage
 - Containerized using Docker
 - Automated testing using GitHub Actions
+- ## Key Features
+
+- Simulated IoT energy devices
+- Real-time energy data generation
+- REST API using FastAPI
+- Persistent data storage
+- Docker containerization
+- Automated testing with GitHub Actions
+- ## Tech Stack
+
+- Python
+- FastAPI
+- SQLite
+- Docker
+- GitHub Actions
+- IoT Simulation
+- ## Future Enhancements
+
+- PostgreSQL integration
+- Kubernetes deployment
+- Cloud monitoring
+- Real-time streaming architecture
